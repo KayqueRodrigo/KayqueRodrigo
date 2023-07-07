@@ -1,5 +1,4 @@
-<h1>Olá! Eu sou o Kayque.</h1>
-<p>Bem Vindo(a) ao meu perfil!<p>
+<h1>Bem Vindo(a) ao meu perfil!</h1>
 
 <div align="center">
   <a href="https://github.com/KayqueRodrigo">
