@@ -1,4 +1,4 @@
-<h1>Olá, seja muito Bem-Vindo(a)</h1>
+<h1>Olá, seja Bem-Vindo(a)</h1>
 
 <div align="center">
   <a href="https://github.com/KayqueRodrigo">
